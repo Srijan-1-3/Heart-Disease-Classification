@@ -6,6 +6,14 @@ The approach this project takes :
 
 * Problem Definition
 * Getting the data ready
+* Exploratory Data Analysis
 * Model Selection/Evaluation
 * Features
 * Experimentation
+
+### Problem Definition
+
+In a statement,
+> Given clinical data about a patient,can we predict whether or not they have a heart disease?
+
+
