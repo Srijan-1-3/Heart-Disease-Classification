@@ -14,7 +14,7 @@ The approach this project takes :
 ### Problem Definition
 
 In a statement,
-> Given clinical data about a patient,can we predict whether or not they have a heart disease?
+> "Given clinical data about a patient,can we predict whether or not they have a heart disease?"
 
 ### Getting Data Ready
 
@@ -39,3 +39,21 @@ It is also available at https://www.kaggle.com/datasets/johnsmith88/
 * ca - number of major vessels (0-3) colored by fluorosopy
 * thal - 1 = normal; 2 = fixed defect; 3 = reversable defect
 * target - presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+
+> Since Data has no missing values and is already in the numerical form, we can move  on to Exploratory Data Analysis
+
+### Exploratory Data Analysis
+
+Making observations by analysing the data using various tools.
+
+#### Libraries Used
+
+* pandas
+* matplotlib
+* numpy
+
+#### Observation 1:
+
+Out of 303 records, It was found that 165 patients had a heart disease. That is a approximately **54.46%** of the total records.
+
+ ![](Target%20Value%20Counts.png)
