@@ -56,4 +56,4 @@ Making observations by analysing the data using various tools.
 
 Out of 303 records, It was found that 165 patients had a heart disease. That is a approximately **54.46%** of the total records.
 
- ![](Target%20Value%20Counts.png)
+ ![Heart Disease Value Counts](Target%20Value%20Counts.png)
