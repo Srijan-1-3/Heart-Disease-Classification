@@ -68,6 +68,10 @@ Out of 303 records, It was found that 165 patients had a heart disease. That is 
 ![target vs sex](https://user-images.githubusercontent.com/76565276/177000643-fe522790-b02c-4659-8a1b-b4547ef9a1ec.png)
 
 
+### Observation 3:
 
+Upon analysing age distribution data, it is found that there are no outliers in the dataset.
+
+![Age Distribution](age%20distribution.png)
 
 
