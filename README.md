@@ -65,4 +65,5 @@ Out of 303 records, It was found that 165 patients had a heart disease. That is 
 
 * 93 out of 207 men have a heart disease **i.e 44.93%** of men show sgins of heart disease
 
-![Frequency of heart diseases in different genders](target vs sex.png)
+![target vs sex](https://user-images.githubusercontent.com/76565276/177000643-fe522790-b02c-4659-8a1b-b4547ef9a1ec.png)
+
