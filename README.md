@@ -57,3 +57,12 @@ Making observations by analysing the data using various tools.
 Out of 303 records, It was found that 165 patients had a heart disease. That is a approximately **54.46%** of the total records.
 
  ![Heart Disease Value Counts](Target%20Value%20Counts.png)
+
+
+ #### Observation 2:
+
+ * 72 out of 96 women have a heart disease **i.e 75%** of women show signs of heart disease.
+
+* 93 out of 207 men have a heart disease **i.e 44.93%** of men show sgins of heart disease
+
+![Frequency of heart diseases in different genders](target vs sex.png)
