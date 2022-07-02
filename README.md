@@ -74,4 +74,10 @@ Upon analysing age distribution data, it is found that there are no outliers in 
 
 ![Age Distribution](age%20distribution.png)
 
+### Observation 4:
+
+People with cp(chest pain type) = 2 have the highest chances of succumbing to heart diseases.
+
+![Heart Disease Frequency VS Chest Pain Type](Heart%20Disease%20Frequency%20by%20chest%20pain%20type.png)
+
 
