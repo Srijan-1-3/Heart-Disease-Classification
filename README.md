@@ -120,3 +120,20 @@ After using RandomizedSearchCV:
 Since the Logistic Regression has given us the best results so far, we will be performing the GridSearchCV only on this model.
 
 * After performing the GridSearchCV, the Logistic Regression model gives the same result as the baseline score i.e. **88.52%**
+
+
+> Therefore Logistic Regression is the model of our choice
+
+
+### Model Evaluation
+
+#### Plotting the ROC Curve
+
+The Receiver Operating Characteristic(ROC) was plotted and Area Under Curve(AUC) was **92%**
+
+![ROC Curve](roc%20curve.png)
+
+
+#### Confusion Matrix
+
+![Confusion Matrix](confusion%20matrix.png)
