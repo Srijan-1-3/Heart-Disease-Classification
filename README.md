@@ -114,3 +114,9 @@ After using RandomizedSearchCV:
 1. The Logistic Regression model performed the same with a score of **88.52%**
 2. The Random Forest Classifier showed a slight improvement with a score of **86.89%**
 
+
+#### Hyperparameter Tuning Using GridSearchCV
+
+Since the Logistic Regression has given us the best results so far, we will be performing the GridSearchCV only on this model.
+
+* After performing the GridSearchCV, the Logistic Regression model gives the same result as the baseline score i.e. **88.52%**
