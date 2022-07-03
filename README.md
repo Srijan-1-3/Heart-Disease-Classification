@@ -137,3 +137,14 @@ The Receiver Operating Characteristic(ROC) was plotted and Area Under Curve(AUC)
 #### Confusion Matrix
 
 ![Confusion Matrix](confusion%20matrix.png)
+
+#### Cross Validated Accuracy, Precision, Recall,F1-Score 
+
+Upon Cross Validation : 
+
+1. Accuracy : **84.80%**
+2. Precision : **82.16%**
+3. Recall : **92.73%**
+4. f1-score : **87.05%**
+
+![Cross Validated Classification Report](cross%20validated%20classification%20report.png)
