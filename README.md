@@ -107,3 +107,10 @@ We're going to try three different models for this classification problem and ev
 
  ![KNN Max Score](knn%20max%20score.png)
 
+#### Tuning Logistic Regression and Random Forest Classifier models using RandomizedSearchCV
+
+After using RandomizedSearchCV:
+
+1. The Logistic Regression model performed the same with a score of **88.52%**
+2. The Random Forest Classifier showed a slight improvement with a score of **86.89%**
+
