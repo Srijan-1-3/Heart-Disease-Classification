@@ -68,16 +68,42 @@ Out of 303 records, It was found that 165 patients had a heart disease. That is 
 ![target vs sex](https://user-images.githubusercontent.com/76565276/177000643-fe522790-b02c-4659-8a1b-b4547ef9a1ec.png)
 
 
-### Observation 3:
+#### Observation 3:
 
 Upon analysing age distribution data, it is found that there are no outliers in the dataset.
 
 ![Age Distribution](age%20distribution.png)
 
-### Observation 4:
+#### Observation 4:
 
 People with cp(chest pain type) = 2 have the highest chances of succumbing to heart diseases.
 
 ![Heart Disease Frequency VS Chest Pain Type](Heart%20Disease%20Frequency%20by%20chest%20pain%20type.png)
 
+
+
+### Model Selection/Evaluation
+
+#### Libraries Used
+
+* sklearn
+
+
+We're going to try three different models for this classification problem and evaluate them to see which one gives us the best result. They are:
+
+1. Logistic Regression
+2. K-Nearest Neighbours
+3. Random Forest Classifier
+
+#### Baseline Scores
+
+1. Logistic Regression : **88.52%**
+2. Random Forest Classifier : **83.60%**
+3. K-Nearest Neighbours : **68.85%**
+
+#### Tuning KNN Model
+
+ Even after tuning the n-neighbors hyperparameter, KNN only gave a maximum score of **75.41%**
+
+ ![KNN Max Score](knn%20max%20score.png)
 
